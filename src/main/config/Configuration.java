@@ -3,6 +3,6 @@ import java.util;
 
 class Configuration{
   public static void main(String[] args){
-     //this class contains the configuration 
+     //this class contains the configuration .pPlease add the configuration.
   }
 }
